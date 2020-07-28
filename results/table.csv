@@ -1,0 +1,4 @@
+Network,Top-1 error,Top-5 error
+EfficientNet-B0,22.302,6.468
+EfficientNet-B1,21.308,5.914
+EfficientNet-B2,19.598,4.924
